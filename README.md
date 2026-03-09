@@ -26,3 +26,6 @@ The model is trained using the [House Prices - Advanced Regression Techniques](h
 1. Upload the `train.csv` file to your Google Colab environment.
 2. Run the notebook cells in order.
 3. Use the **Gradio Public Link** to interact with the model via sliders.
+
+Interface Demo
+The model includes a Gradio interface for real-time predictions as shown in the screenshot above.
